@@ -1,6 +1,6 @@
 #portfolio {
   background-image:url("images/logo.png");
-  opacity: .7;
+  opacity: .9;
 }
 
 .article-image {
@@ -12,7 +12,4 @@
 }
 #main {
   background-color: white;
-}
-#bg-white {
-  opacity: .9;
 }
