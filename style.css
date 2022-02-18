@@ -1,13 +1,18 @@
 #portfolio {
-
-  background-image: linear-gradient(to right, purple, blue , green);
+  background-image:url("images/logo.png");
+  opacity: .7;
 }
 
 .article-image {
   height: 150px;
   width: 115px;
 }
-#logo{
-  height:80px;
-  width: 80px;
+.navbar {
+  background-color: grey
+}
+#main {
+  background-color: white;
+}
+#bg-white {
+  opacity: .9;
 }
