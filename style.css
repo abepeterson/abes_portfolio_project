@@ -11,5 +11,12 @@
   background-color: grey
 }
 #main {
-  background-color: white;
+  background-image: linear-gradient(to right, green, blue, purple);
+}
+.portfolio-text{
+  color:black;
+}
+
+.portfolio-text:hover {
+  color: rgb(7, 16, 250);
 }
