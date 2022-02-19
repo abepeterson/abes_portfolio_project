@@ -11,7 +11,7 @@
   background-color: grey
 }
 #main {
-  background-image: linear-gradient(to right, green, blue, purple);
+  background-color: lightgrey;
 }
 .portfolio-text{
   color:black;
