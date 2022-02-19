@@ -1,7 +1,10 @@
+
 #portfolio {
-  background-image:url("images/logo.png");
-  opacity: .9;
+  background: linear-gradient(rgba(177,166,172,.6), rgba(177,166,172,.6)),
+    url("./images/Logo.png");
 }
+
+
 
 .article-image {
   height: 150px;
@@ -9,9 +12,6 @@
 }
 .navbar {
   background-color: grey
-}
-#main {
-  background-color: lightgrey;
 }
 .portfolio-text{
   color:black;
